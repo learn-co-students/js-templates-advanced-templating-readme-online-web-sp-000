@@ -5,7 +5,7 @@
 1. Explain how to use Handlebars templates
 2. Describe Handlebars' built-in helpers (`if` and `each`)
 3. Practice writing a template using Handlebars
-4. Write a custom Handlebars helper
+4. Write a custom Handlebars  helper
 
 ## Introduction
 
